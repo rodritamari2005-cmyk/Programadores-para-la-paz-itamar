@@ -1,0 +1,9 @@
+La prueba de la API devolvió una respuesta en formato JSON indicando que los datos fueron recibidos correctamente.
+
+Respuesta:
+
+{
+"estado": "Datos recibidos",
+"nombre": "Maria",
+"mensaje": "Hola comunidad"
+}

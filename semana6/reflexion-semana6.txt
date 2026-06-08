@@ -1,0 +1,8 @@
+Las plataformas tecnológicas permiten que los ciudadanos puedan enviar información de forma organizada y rápida.
+Recibir reportes estructurados facilita el análisis de los problemas de una comunidad.
+Los datos enviados correctamente ayudan a tomar mejores decisiones.
+También permiten hacer seguimiento a las solicitudes realizadas.
+Una API permite conectar diferentes sistemas y recibir información automáticamente.
+Esto mejora la comunicación entre ciudadanos e instituciones.
+Además, ayuda a crear soluciones más eficientes.
+Por eso es importante que los datos tengan una estructura clara.
