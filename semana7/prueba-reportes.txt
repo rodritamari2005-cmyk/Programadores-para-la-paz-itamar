@@ -1,0 +1,13 @@
+Al realizar la petición GET a /reportes, el servidor devuelve la lista de reportes almacenados en memoria.
+
+La respuesta muestra los datos registrados mediante la ruta POST.
+
+Ejemplo:
+
+[
+ {
+  "id":1,
+  "tipo":"Infraestructura",
+  "descripcion":"Daño en alumbrado público"
+ }
+]
