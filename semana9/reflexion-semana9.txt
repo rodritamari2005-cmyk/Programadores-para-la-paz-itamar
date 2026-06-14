@@ -1,0 +1,8 @@
+Es importante que las plataformas tecnológicas usadas por las comunidades funcionen de manera estable y segura.
+Un servidor confiable permite que las personas puedan acceder a los servicios cuando los necesitan.
+La estabilidad ayuda a evitar interrupciones y mejora la experiencia de los usuarios.
+La seguridad permite proteger la información y evitar accesos no autorizados.
+También es importante monitorear los servidores para detectar posibles errores.
+Los registros del sistema ayudan a solucionar problemas y mejorar el funcionamiento.
+Una plataforma bien administrada genera confianza en la comunidad.
+Por eso, los servidores deben mantenerse actualizados y supervisados constantemente.
