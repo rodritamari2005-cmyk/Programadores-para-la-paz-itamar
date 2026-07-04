@@ -1,0 +1,38 @@
+MODELO DE DATOS SIMPLE
+
+Entidad: Causa
+
+Campos principales:
+
+* id
+* titulo
+* descripcion
+* fecha
+* estado
+
+Propósito:
+Guardar las causas comunitarias o problemáticas registradas en la plataforma para que puedan ser visibles, consultadas y apoyadas por la comunidad.
+
+Entidad: Apoyo
+
+Campos principales:
+
+* id
+* causa_id
+* nombre_usuario
+* fecha
+
+Propósito:
+Registrar los apoyos que recibe cada causa, relacionándolos con la causa correspondiente para llevar un control de la participación de la comunidad.
+
+Entidad: Usuario
+
+Campos principales:
+
+* id
+* nombre
+* correo
+* rol
+
+Propósito:
+Guardar la información básica de los usuarios que participan en la plataforma, permitiendo identificar quién crea causas, quién apoya y qué permisos puede tener dentro del sistema.

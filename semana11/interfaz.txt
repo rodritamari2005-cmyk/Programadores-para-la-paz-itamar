@@ -1,0 +1,7 @@
+INTERFAZ BÁSICA DE LA PLATAFORMA
+
+La interfaz de la plataforma tendría una sección principal donde se puedan ver las causas comunitarias disponibles, con su título, descripción, fecha y estado. Esto permitiría que los usuarios conozcan fácilmente las problemáticas o iniciativas registradas.
+
+También tendría un formulario para crear una nueva causa, en el que se incluyan campos como título, descripción y fecha. De esta manera, la comunidad podría registrar nuevas causas de forma sencilla.
+
+Cada causa contaría con un botón de “Apoyar” para que los usuarios puedan respaldarla, y además tendría un contador de apoyos para mostrar cuántas personas han participado. La interfaz debe ser clara, fácil de usar y no debe mostrar información privada de los usuarios.
