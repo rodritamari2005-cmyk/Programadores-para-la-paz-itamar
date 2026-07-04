@@ -1,0 +1,15 @@
+ITERACIÓN SEMANA 10
+
+Las 2 tareas del backlog que haría primero son:
+
+1. Permitir que el ciudadano registre una incidencia en la plataforma.
+2. Enviar una alerta en Telegram cuando se registre un nuevo reporte.
+
+Considero que estas son las más importantes porque sin el registro de incidencias no existiría la información principal del sistema, y sin la alerta el equipo podría tardar más en enterarse de un nuevo caso. Ambas tareas ayudan a que la solución funcione desde el inicio y permita una atención más rápida.
+
+Para mí, una tarea está “terminada” cuando:
+
+* Funciona correctamente.
+* Fue revisada o probada para comprobar que cumple su objetivo.
+* Quedó guardada y registrada en Git.
+* No expone datos sensibles de las personas.

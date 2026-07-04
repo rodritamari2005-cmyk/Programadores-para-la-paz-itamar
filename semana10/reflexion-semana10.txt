@@ -1,0 +1,14 @@
+Las metodologías ágiles ayudan a organizar mejor una comunidad o un proceso de 
+participación ciudadana porque permiten dividir el trabajo en tareas concretas, 
+priorizar lo más importante y revisar constantemente los avances.
+El backlog sirve para que el equipo tenga claridad sobre qué debe hacer primero 
+y qué necesidades son más urgentes. Además, trabajar por iteraciones permite corregir 
+errores, hacer mejoras poco a poco y adaptarse a lo que la comunidad realmente necesita.
+
+Por otro lado, herramientas como n8n y Telegram pueden facilitar mucho la coordinación, 
+porque permiten automatizar recordatorios, alertas y notificaciones sin perder tanto tiempo 
+en tareas repetitivas. Esto hace que el equipo pueda concentrarse más en el análisis y en la 
+atención de los casos. Sin embargo, es importante usar estas herramientas con responsabilidad, 
+ya que no se debe compartir información personal o sensible. En conclusión, la combinación entre 
+metodologías ágiles, automatización y canales de comunicación puede hacer que el trabajo comunitario 
+sea más organizado, rápido y efectivo.
