@@ -1,0 +1,11 @@
+Durante este curso aprendí que la tecnología puede fortalecer la participación ciudadana al facilitar la organización de iniciativas 
+comunitarias y la comunicación entre las personas. También comprendí la importancia de utilizar 
+plataformas digitales para registrar información de manera ordenada y transparente. 
+Aprendí que las bases de datos permiten almacenar la información de 
+forma segura y que la automatización ayuda a agilizar diferentes procesos. 
+Además, entendí que la protección de los datos personales es una responsabilidad 
+fundamental en cualquier sistema. El desarrollo de herramientas como "Petición en 3 Clics" 
+demuestra que la tecnología puede generar un impacto positivo cuando responde a las 
+necesidades de la comunidad. Este curso me permitió conocer conceptos de backend, 
+bases de datos y automatización, y comprender cómo pueden integrarse para crear 
+soluciones útiles que promuevan la participación democrática y el trabajo colaborativo.
